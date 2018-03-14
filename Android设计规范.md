@@ -7,7 +7,7 @@
 
 ### 2.DPI(屏幕密度)计算公式
 
-![](http://DPI计算公式)
+![](https://github.com/IvyZh/Android_Design/blob/master/imgs/DPI%E8%AE%A1%E7%AE%97%E5%85%AC%E5%BC%8F.png)
 
 ### 3.PPI和DPI的关系
 
@@ -20,7 +20,7 @@
 
 ### 4.安卓各屏幕密度
 
-![](http://安卓各屏幕密度)
+![](https://github.com/IvyZh/Android_Design/blob/master/imgs/%E5%AE%89%E5%8D%93%E5%90%84%E5%B1%8F%E5%B9%95%E5%AF%86%E5%BA%A6.png)
 
 
 
@@ -55,7 +55,7 @@ dp: dip，Density-independent pixel, 【安卓开发用的长度单位】
 ### PX与DP、SP的换算
 
 
-![](http://PX与DP、SP的换算)
+![](https://github.com/IvyZh/Android_Design/blob/master/imgs/PX%E4%B8%8EDP%E3%80%81SP%E7%9A%84%E6%8D%A2%E7%AE%97.png)
 
 
 
@@ -95,7 +95,7 @@ dp: dip，Density-independent pixel, 【安卓开发用的长度单位】
 
 ### 9.标注
 
-![](http://标注)
+![](https://github.com/IvyZh/Android_Design/blob/master/imgs/%E6%A0%87%E6%B3%A8.png)
 
 
 ### 10.补充
@@ -110,7 +110,7 @@ http://www.25xt.com/appdesign/9487.html
 
 1080  *  1920px的设计规范：
 
-![](http://1080P)
+![](https://github.com/IvyZh/Android_Design/blob/master/imgs/1080%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83.jpg)
 
 > 以上界面参数和尺寸仅作为参考
 
